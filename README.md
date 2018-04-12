@@ -4,7 +4,7 @@ Tutorial for machine learning with python, numpy, pytorch, tensorflow, and keras
 ## Requirements
 >* python 3.6 (Anaconda)
 >* tensorflow 1.3
->* pytorch 0.3.7
+>* pytorch 0.3.1
 
 ## Implementation List
 **1. Classifier**
