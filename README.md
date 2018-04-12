@@ -17,4 +17,4 @@ Tutorial for machine learning with python, numpy, pytorch, tensorflow, and keras
 **2. GANs**
 >* [Vanilla GANs (PyTorch)](https://github.com/Yangyangii/MachineLearningTutorial/blob/master/PyTorch/Simple_GANs.ipynb)
 >* [Conditional GANs (PyTorch)](https://github.com/Yangyangii/MachineLearningTutorial/blob/master/PyTorch/Conditional_GANs.ipynb)
-
+>* [DC GANs (PyTorch)](https://github.com/Yangyangii/MachineLearningTutorial/blob/master/PyTorch/DCGAN.ipynb)
