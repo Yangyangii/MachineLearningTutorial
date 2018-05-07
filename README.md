@@ -19,3 +19,4 @@ Tutorial for machine learning with python, numpy, pytorch, tensorflow, and keras
 >* [Conditional GANs (PyTorch)](https://github.com/Yangyangii/MachineLearningTutorial/blob/master/PyTorch/Conditional_GANs.ipynb)
 >* [DC GANs (PyTorch)](https://github.com/Yangyangii/MachineLearningTutorial/blob/master/PyTorch/DCGAN.ipynb)
 >* [Wasserstain GANs with MLP (PyTorch)](https://github.com/Yangyangii/MachineLearningTutorial/blob/master/PyTorch/W-GAN(MLP).ipynb)
+>* If you want to see more... [GAN Tutorial](https://github.com/Yangyangii/GAN-Tutorial)
